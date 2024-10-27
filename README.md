@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I am excited to leave traces of creativity in every creation and idea.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
