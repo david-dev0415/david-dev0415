@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
+<img src="./profile_banner_fullstack_edited.webp" alt="Banner David P">
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Angular 18, SolidJS**
